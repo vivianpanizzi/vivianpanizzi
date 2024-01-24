@@ -10,8 +10,8 @@
   💌 Entre em contato: ⤵️
 </p>
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/vivianpanizzi/)" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.linkedin.com/in/vivianpanizzi/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianpanizzi/" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/vivianpanizzi/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vivianpanizzi/" alt="Instagram"/></a>
 </p>
